@@ -1,3 +1,1 @@
-django
-psycopg2-binary
-pillow
+Django==2.2.10
